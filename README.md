@@ -89,3 +89,11 @@ Multilevel Feedback Queue Scheduling:
 - Gantt Chart: gantt_chart.png
 ```
 
+---
+## ✍️ Author
+Yara Khattab
+
+📧 Email: yarakhattab16@gmail.com
+
+🔗 GitHub: github.com/yarakhattab
+
